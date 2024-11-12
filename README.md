@@ -5,7 +5,7 @@
 
 ## How to Install
 ```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/Linux-Minecraft-Server/main/installer.sh
+curl -LO https://raw.githubusercontent.com/michaelsebero/Linux-Minecraft-Server/main/installer.sh
 
 sh installer.sh
 ```
